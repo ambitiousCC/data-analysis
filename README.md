@@ -9,7 +9,10 @@
 
 ## 开发环境
 
+python
 * jupyter notebook
+* pycharm
+* IDLE
 
 ## 基本能力
 
@@ -17,3 +20,10 @@
 * pandas 数据处理
 
 * matplotlib 绘图
+* seaborn
+
+* KNN
+* 决策树
+* FP-BP神经网络
+* Line Regression
+* Logic Regression
